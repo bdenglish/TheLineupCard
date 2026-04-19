@@ -1,24 +1,29 @@
-# Privacy Policy
+# Privacy Policy — The Lineup Card
 
-**Effective Date:** 2026-04-19 03:44:28 UTC
+Last updated: April 18, 2026
 
-## Introduction
-This Privacy Policy explains how we collect, use, and protect your information when you use our application, The Lineup Card.
+The Lineup Card does not collect, store, or transmit any personal data. All information you enter — including team names, player names, and lineups — is stored locally on your device and is never sent to any server.
 
-## Information We Collect
-- Personal Information: We may collect personal information from you when you register for the app or use certain features.
-- Usage Data: We collect information on how the app is accessed and used.
+## Data Storage
 
-## How We Use Your Information
-- To provide and maintain our service.
-- To notify you about changes to our service.
-- To allow you to participate in interactive features of our service when you choose to do so.
+All app data is stored on your device using local storage. We do not operate any servers or databases.
 
-## Data Protection
-We take your privacy seriously and implement appropriate security measures to protect your information.
+## Audio Files
 
-## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+Walkup songs you add are copied to your device's local app storage. They are not uploaded or shared externally.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at support@thelineupcardapp.com.
+## Analytics & Tracking
+
+This app does not use any analytics, tracking, or advertising frameworks.
+
+## Third-Party Services
+
+This app does not integrate with any third-party services.
+
+## Children's Privacy
+
+This app does not knowingly collect any information from children. No data is collected from any user of any age.
+
+## Contact
+
+For questions about this privacy policy, open an issue on this project's GitHub repository.
